@@ -17,6 +17,21 @@ img {
     height: 150px;
 }
 
+/* Classes */
+/* gallery of plane info cards on home page */
+.plane-gallery {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+/* plane info cards */
+.plane-card {
+    display: flex;
+    flex-flow: column nowrap;
+    height: 350px;
+    width: 200px;
+}
+/* image citations */
 .citation {
     color: grey;
     font-size: 10px;
