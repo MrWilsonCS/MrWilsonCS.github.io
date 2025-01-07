@@ -12,6 +12,11 @@ p {
     color: teal;
 }
 
+img {
+    width: auto;
+    height: 150px;
+}
+
 .citation {
     color: grey;
     font-size: 10px;
