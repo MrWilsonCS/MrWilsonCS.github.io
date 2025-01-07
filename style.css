@@ -2,8 +2,9 @@
 body {
   background-color: skyblue;
 }
+
 h1 {
-  color: purple;
+  color: snow;
   font-size: 50px;
 }
 
@@ -26,6 +27,7 @@ img {
 .plane-gallery {
   display: flex;
   flex-flow: row wrap;
+  justify-content: space-around;
 }
 
 /* plane info cards */
